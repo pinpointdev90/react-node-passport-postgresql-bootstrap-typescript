@@ -1,0 +1,23 @@
+.google-button {
+  background-color: #4285f4 !important;
+}
+
+.google-button:hover {
+  background-color: #4285F4/90 !important;
+}
+
+.github-button {
+  background-color: #24292f !important;
+}
+
+.github-button:hover {
+  background-color: #24292F/90 !important;
+}
+
+.discord-button {
+  background-color: #7289da !important;
+}
+
+.discord-button:hover {
+  background-color: #7289da/90 !important;
+}
